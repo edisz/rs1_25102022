@@ -10,6 +10,6 @@ namespace dev1
     {
         public int class1_id { get; set; }
         public string Name { get; set; }
-        public int Surname { get; set; }
+        public string Surname { get; set; }
     }
 }
